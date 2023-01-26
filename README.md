@@ -47,7 +47,7 @@ def QR_Decomposition(A):
      print(Q)
      print(R)    
 a = np.array(eval(input()))
-QR_Decomposition(a)```
+QR_Decomposition(a)
 
 
 ```
